@@ -1,0 +1,84 @@
+.nav{ /*this is how I was able to get the nav bar to always show*/
+    list-style-type: none;
+    margin: 0px;
+    padding: 0; 
+    position: fixed;
+    font-size: 20px;
+}
+
+a:link{
+    color: black;   
+}
+a:visited{
+    color: black;
+}
+
+body{
+    background-color:gainsboro;  
+}
+
+.Codec{
+    margin: 50px;
+    width: 500px;
+    height: 300px;
+    margin-top: -5px;
+}
+
+.p{
+    margin: 50px; 
+    margin-top: -30px;
+    font-size: 20px;
+}
+
+.Like {
+    height: 25px;
+    width: 65px;
+    color: blue;
+}
+
+.guy{
+    margin: 100px; 
+    margin-top: -40px;   
+}
+
+.p2{
+    margin: 50px; 
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#Aboutlist{
+    font-size: 20px;
+    margin: 80px; 
+    margin-top: -50px;
+}
+
+.jobs{
+    list-style-type: none;
+    margin: 10px; 
+    margin-top: -45px;
+    font-size: 20px; 
+}
+#aboutP{
+    margin: 50px; 
+    margin-top: -20px;
+    font-size: 20px;  
+}
+
+.favP{
+    margin: 100px; 
+    margin-top: 30px;
+    font-size: 20px;  
+}
+
+.gamesP{
+    margin: 100px; 
+    margin-top: -119px;
+    font-size: 20px;
+}
+
+.MGS{
+    margin: 100px; 
+    margin-top: 20px;
+    font-size: 20px;  
+}
